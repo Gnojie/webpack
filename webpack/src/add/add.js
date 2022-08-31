@@ -1,0 +1,1 @@
+module.exports = addfn = (a,b)=>{return a+b}
